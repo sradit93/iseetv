@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="02" tvg-name="TRANS TV" tvg-logo="https://sradit93.github.io/iseetv/api/media/source/picture/02.png", TRANS TV
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704434&extension=ts&play_token=JMeCH6XKdW
+
+#EXTINF:-1 tvg-id="03" tvg-name="MNC TV" tvg-logo="https://sradit93.github.io/iseetv/api/media/source/picture/03.png", MNC TV
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704434&extension=ts&play_token=JMeCH6XKdW
+
+#EXTINF:-1 tvg-id="04" tvg-name="INDOSIAR" tvg-logo="https://sradit93.github.io/iseetv/api/media/source/picture/04.png", INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="05" tvg-name="RCTI" tvg-logo="https://sradit93.github.io/iseetv/api/media/source/picture/05.png", RCTI
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="06" tvg-name="SCTV" tvg-logo="https://sradit93.github.io/iseetv/api/media/source/picture/06.png", SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 tvg-id="07" tvg-name="ANTV" tvg-logo="https://sradit93.github.io/iseetv/api/media/source/picture/07.png", ANTV
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
